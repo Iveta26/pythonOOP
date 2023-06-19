@@ -1,6 +1,12 @@
 # Intro to OOP
 
-Object Oriented Programming is a programming paradigm based on the concept of "objects", which can contain data and code.
+Object Oriented Programming is a programming paradigm based on the concept of "objects", which can contain data and code. These are contained in classes.
+
+[A class](C:\Users\iveta_6esu9b1\PycharmProjects\calcOOP\class.png)
+
+[We have to be careful with overriding](C:\Users\iveta_6esu9b1\PycharmProjects\calcOOP\overriding1.png)
+
+[Overriding](C:\Users\iveta_6esu9b1\PycharmProjects\calcOOP\overriding2.png)
 
 ### Core values of OOP
 1. Abstraction
@@ -24,6 +30,8 @@ cat.breathe()
 
 #### 2. Inheritance 
 Creating new class from existing class, inherits class variables and methods.
+[Visualising inheritance](C:\Users\iveta_6esu9b1\PycharmProjects\calcOOP\inheritance.png)
+
 ```python
 from animal import Animal
 
